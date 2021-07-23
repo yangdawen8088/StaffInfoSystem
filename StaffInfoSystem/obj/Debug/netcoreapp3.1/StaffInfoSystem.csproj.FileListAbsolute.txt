@@ -1,0 +1,13 @@
+E:\我的学习资源\Net\StaffInfoSystem\StaffInfoSystem\bin\Debug\netcoreapp3.1\StaffInfoSystem.exe
+E:\我的学习资源\Net\StaffInfoSystem\StaffInfoSystem\bin\Debug\netcoreapp3.1\StaffInfoSystem.deps.json
+E:\我的学习资源\Net\StaffInfoSystem\StaffInfoSystem\bin\Debug\netcoreapp3.1\StaffInfoSystem.runtimeconfig.json
+E:\我的学习资源\Net\StaffInfoSystem\StaffInfoSystem\bin\Debug\netcoreapp3.1\StaffInfoSystem.runtimeconfig.dev.json
+E:\我的学习资源\Net\StaffInfoSystem\StaffInfoSystem\bin\Debug\netcoreapp3.1\StaffInfoSystem.dll
+E:\我的学习资源\Net\StaffInfoSystem\StaffInfoSystem\bin\Debug\netcoreapp3.1\StaffInfoSystem.pdb
+E:\我的学习资源\Net\StaffInfoSystem\StaffInfoSystem\obj\Debug\netcoreapp3.1\StaffInfoSystem.csproj.AssemblyReference.cache
+E:\我的学习资源\Net\StaffInfoSystem\StaffInfoSystem\obj\Debug\netcoreapp3.1\StaffInfoSystem.AssemblyInfoInputs.cache
+E:\我的学习资源\Net\StaffInfoSystem\StaffInfoSystem\obj\Debug\netcoreapp3.1\StaffInfoSystem.AssemblyInfo.cs
+E:\我的学习资源\Net\StaffInfoSystem\StaffInfoSystem\obj\Debug\netcoreapp3.1\StaffInfoSystem.csproj.CoreCompileInputs.cache
+E:\我的学习资源\Net\StaffInfoSystem\StaffInfoSystem\obj\Debug\netcoreapp3.1\StaffInfoSystem.dll
+E:\我的学习资源\Net\StaffInfoSystem\StaffInfoSystem\obj\Debug\netcoreapp3.1\StaffInfoSystem.pdb
+E:\我的学习资源\Net\StaffInfoSystem\StaffInfoSystem\obj\Debug\netcoreapp3.1\StaffInfoSystem.genruntimeconfig.cache
